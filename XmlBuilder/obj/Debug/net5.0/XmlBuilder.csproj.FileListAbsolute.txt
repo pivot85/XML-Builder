@@ -1,0 +1,16 @@
+C:\Users\96658\source\repos\XmlBuilder\bin\Debug\net5.0\XmlBuilder.exe
+C:\Users\96658\source\repos\XmlBuilder\bin\Debug\net5.0\XmlBuilder.deps.json
+C:\Users\96658\source\repos\XmlBuilder\bin\Debug\net5.0\XmlBuilder.runtimeconfig.json
+C:\Users\96658\source\repos\XmlBuilder\bin\Debug\net5.0\XmlBuilder.runtimeconfig.dev.json
+C:\Users\96658\source\repos\XmlBuilder\bin\Debug\net5.0\XmlBuilder.dll
+C:\Users\96658\source\repos\XmlBuilder\bin\Debug\net5.0\ref\XmlBuilder.dll
+C:\Users\96658\source\repos\XmlBuilder\bin\Debug\net5.0\XmlBuilder.pdb
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.csprojAssemblyReference.cache
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.AssemblyInfoInputs.cache
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.AssemblyInfo.cs
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.csproj.CoreCompileInputs.cache
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.dll
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\ref\XmlBuilder.dll
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.pdb
+C:\Users\96658\source\repos\XmlBuilder\obj\Debug\net5.0\XmlBuilder.genruntimeconfig.cache
